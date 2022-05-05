@@ -1,5 +1,5 @@
 # intersections
-Framework for unordered_set intersections c++
+Framework for set intersections c++
 
 
 в юпитеровском ноутбуке "допиленный" генератор, теперь он дополнительно перемешивает все непересекающиеся эл-ты и после деления сета, дополнительно перемешивает и его
